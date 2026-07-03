@@ -1,0 +1,19 @@
+README.md
+  s_44b967bf4fd1dd::t_bfdef9bdf930db 2,5,9-13,20-26,35,38-40,43-68,75,96,99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b6113e6e3cf0fd3abbf25e26a93b8a049e866930",
+  "prompts": {},
+  "sessions": {
+    "s_44b967bf4fd1dd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e9bcaa4f-337b-4b9c-be3b-0582b7e5b777",
+        "model": "unknown"
+      },
+      "human_author": "Archit Lal <architdraftid@gmail.com>"
+    }
+  }
+}
