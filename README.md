@@ -18,10 +18,10 @@ The Futurist Sage.
 
 ### Built
 
-- **[Manifest](https://sagepartners.vc/portfolio/archit/projects/manifest)** — lets people with late-stage ALS speak through a brain-computer interface.
 - **Edith AI** — sub-$25 AR glasses that caption the world for people who can't hear it.
 - **Belfort AI** — a voice agent that buys and sells just by talking.
 - **[Altivis](https://altivis-rho.vercel.app/)** — an agent that talks to your users so you actually hear them.
+- **[Manifest](https://sagepartners.vc/portfolio/archit/projects/manifest)** — lets people with late-stage ALS speak through a brain-computer interface.
 
 ### Writing
 
