@@ -12,7 +12,7 @@ The Futurist Sage.
 
 ### Now
 
-- **Building [geteventful.com](https://geteventful.com)** — infrastructure for agents to host IRL events, fronted as a service running highly curated ICP dinners for B2B companies. Hit $15K MRR in 4 weeks.
+- **Building [geteventful.com](https://geteventful.com)** — infrastructure for agents to host IRL events, fronted as a service running highly curated ICP dinners for B2B companies. Hit $15K MR in 4 weeks.
 - **Investing** as a General Partner at [Atland Ventures](https://atlandventures.com).
 - **Running** a 0→1 accelerator I co-founded for student builders.
 
