@@ -1,0 +1,37 @@
+profile-3d-contrib/profile-gitblock.svg
+  s_44b967bf4fd1dd::t_1f3a07cf6c960a 1
+profile-3d-contrib/profile-green-animate.svg
+  s_44b967bf4fd1dd::t_9fd345d7f0777a 1
+profile-3d-contrib/profile-green.svg
+  s_44b967bf4fd1dd::t_449dee67e490ee 1
+profile-3d-contrib/profile-night-green.svg
+  s_44b967bf4fd1dd::t_367461ed90beec 1
+profile-3d-contrib/profile-night-rainbow.svg
+  s_44b967bf4fd1dd::t_428eb1c6bbb1f3 1
+profile-3d-contrib/profile-night-view.svg
+  s_44b967bf4fd1dd::t_5fb2a53ce01c25 1
+profile-3d-contrib/profile-season-animate.svg
+  s_44b967bf4fd1dd::t_1a28d5bff1834d 1
+profile-3d-contrib/profile-season.svg
+  s_44b967bf4fd1dd::t_a7e4b8c7c72da3 1
+profile-3d-contrib/profile-south-season-animate.svg
+  s_44b967bf4fd1dd::t_9c3d1aa0585f72 1
+profile-3d-contrib/profile-south-season.svg
+  s_44b967bf4fd1dd::t_980811f21f137d 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a2e65ff4a840d37f83d07545f367448ef1412ca6",
+  "prompts": {},
+  "sessions": {
+    "s_44b967bf4fd1dd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e9bcaa4f-337b-4b9c-be3b-0582b7e5b777",
+        "model": "unknown"
+      },
+      "human_author": "Archit Lal <architdraftid@gmail.com>"
+    }
+  }
+}
