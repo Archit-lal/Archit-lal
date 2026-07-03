@@ -1,0 +1,21 @@
+.github/workflows/profile-3d.yml
+  s_44b967bf4fd1dd::t_825fa5f5e52e6f 29-30
+.github/workflows/snake.yml
+  s_44b967bf4fd1dd::t_d00a05a7b47e4c 28-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6bfe2ff54ef22d67ff51e6c3dc12ebbe0f8b48ee",
+  "prompts": {},
+  "sessions": {
+    "s_44b967bf4fd1dd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e9bcaa4f-337b-4b9c-be3b-0582b7e5b777",
+        "model": "unknown"
+      },
+      "human_author": "Archit Lal <architdraftid@gmail.com>"
+    }
+  }
+}
