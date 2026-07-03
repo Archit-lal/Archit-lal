@@ -18,8 +18,6 @@ The Futurist Sage.
 
 ### Built
 
-A theme runs through all of it: more natural ways to interact with technology, and with each other.
-
 - **[Manifest](https://sagepartners.vc/portfolio/archit/projects/manifest)** — lets people with late-stage ALS speak through a brain-computer interface.
 - **Edith AI** — sub-$25 AR glasses that caption the world for people who can't hear it.
 - **Belfort AI** — a voice agent that buys and sells just by talking.
