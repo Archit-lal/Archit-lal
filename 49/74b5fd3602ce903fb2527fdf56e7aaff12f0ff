@@ -1,0 +1,19 @@
+README.md
+  s_e84ce16fdb8c39::t_0472fe31e8d331 1-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4974b5fd3602ce903fb2527fdf56e7aaff12f0ff",
+  "prompts": {},
+  "sessions": {
+    "s_e84ce16fdb8c39": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "899cb44f-520c-46ba-a0df-225d77c4f7e7",
+        "model": "unknown"
+      },
+      "human_author": "Archit Lal <architdraftid@gmail.com>"
+    }
+  }
+}
