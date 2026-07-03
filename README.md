@@ -8,7 +8,7 @@ The Futurist Sage.
   <img alt="snake" src="https://raw.githubusercontent.com/Archit-lal/Archit-lal/output/github-contribution-grid-snake.svg" />
 </picture>
 
-20, builder and investor. Grew up in India, now studying CS at the University of Minnesota. I like building better ways for people to interact with technology — and backing founders doing the same.
+20, builder and investor. Grew up in India, now studying CS at the University of Minnesota.
 
 ### Now
 
@@ -18,10 +18,12 @@ The Futurist Sage.
 
 ### Built
 
-- **[Altivis](https://altivis-rho.vercel.app/)** — an agent that runs user research end to end.
-- **Belfort AI** — a voice agent that lists and negotiates on marketplaces. Built at the YC Gemini × Pipecat hackathon.
-- **[Manifest](https://sagepartners.vc/portfolio/archit/projects/manifest)** — a brain-computer interface that lets late-stage ALS patients communicate.
-- **Edith AI** — sub-$25 AR glasses with live subtitles for the hearing impaired.
+A theme runs through all of it: more natural ways to interact with technology, and with each other.
+
+- **[Manifest](https://sagepartners.vc/portfolio/archit/projects/manifest)** — lets people with late-stage ALS speak through a brain-computer interface.
+- **Edith AI** — sub-$25 AR glasses that caption the world for people who can't hear it.
+- **Belfort AI** — a voice agent that buys and sells just by talking.
+- **[Altivis](https://altivis-rho.vercel.app/)** — an agent that talks to your users so you actually hear them.
 
 ### Writing
 
