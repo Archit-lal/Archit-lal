@@ -8,11 +8,13 @@ The Futurist Sage.
   <img alt="snake" src="https://raw.githubusercontent.com/Archit-lal/Archit-lal/output/github-contribution-grid-snake.svg" />
 </picture>
 
-I'm building [geteventful.com](https://geteventful.com). I also invest at Atland Ventures and study CS at the University of Minnesota. I care about better ways for people to interact with technology.
+This summer in San Francisco, I built [geteventful.com](https://geteventful.com) and scaled it to six figures in annualized revenue in a month.
+
+I also invest at Atland Ventures and study CS at the University of Minnesota. I care about better ways for people to interact with technology.
 
 ### Building
 
-- **[geteventful.com](https://geteventful.com)** — events platform
+- **[geteventful.com](https://geteventful.com)** — events platform, six figures ARR in a month
 - **Altivis** — an agent that runs user research
 - **Belfort AI** — a voice agent that negotiates on marketplaces
 - **Manifest** — a brain-computer interface for ALS patients
