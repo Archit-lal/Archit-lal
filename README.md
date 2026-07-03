@@ -18,15 +18,14 @@ The Futurist Sage.
 
 ### Built
 
-- **[Altivis](https://altivis-rho.vercel.app/)** — an agent that runs user research end to end. Raised $16.5K.
+- **[Altivis](https://altivis-rho.vercel.app/)** — an agent that runs user research end to end.
 - **Belfort AI** — a voice agent that lists and negotiates on marketplaces. Built at the YC Gemini × Pipecat hackathon.
-- **Manifest** — a brain-computer interface that lets late-stage ALS patients communicate.
+- **[Manifest](https://sagepartners.vc/portfolio/archit/projects/manifest)** — a brain-computer interface that lets late-stage ALS patients communicate.
 - **Edith AI** — sub-$25 AR glasses with live subtitles for the hearing impaired.
-- **[U8](https://u8agents.vercel.app/)** — human-sourced data through voice agents *(WIP)*.
 
 ### Writing
 
-I write **[The Futurist Sage](https://substack.com/@thefuturistsage)** — Gen Z VC takes on the infrastructure for an AI-native generation. Start with [Manifestation Machines](https://open.substack.com/pub/thefuturistsage/p/manifestation-machines) and [When Agents Become Customers](https://open.substack.com/pub/thefuturistsage/p/when-agents-become-customers).
+I write **[The Futurist Sage](https://substack.com/@thefuturistsage)** — Gen Z VC takes on the infrastructure for an AI-native generation. Some of my thoughts: [Manifestation Machines](https://open.substack.com/pub/thefuturistsage/p/manifestation-machines) and [When Agents Become Customers](https://open.substack.com/pub/thefuturistsage/p/when-agents-become-customers).
 
 ### Elsewhere
 
