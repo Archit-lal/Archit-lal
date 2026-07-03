@@ -28,4 +28,4 @@ Atland Ventures · CS @ University of Minnesota
 
 ## 🎮 PLAYER 2
 
-[Email](mailto:lal00020@umn.edu) · [X](#) · [LinkedIn](#) · [Résumé](https://sagepartners.vc/archit-lal-resume.pdf)
+[Email](mailto:lal00020@umn.edu) · [X](https://x.com/Archit_lal_) · [LinkedIn](https://www.linkedin.com/in/archit-lal-2315141b2/) · [Résumé](https://sagepartners.vc/archit-lal-resume.pdf)
