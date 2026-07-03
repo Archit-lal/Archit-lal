@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit & push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Archit Lal"
+          git config user.email "architdraftid@gmail.com"
           git add -A profile-3d-contrib
           git diff --staged --quiet || git commit -m "chore: update 3D contribution graph"
           git push
