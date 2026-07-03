@@ -22,13 +22,12 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7C3AED
 
       - name: Push to output branch
-        run: |
-          cd dist
-          git init -q
-          git config user.name "Archit Lal"
-          git config user.email "architdraftid@gmail.com"
-          git add .
-          git commit -q -m "chore: update snake animation"
-          git branch -M output
-          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git push -f origin output
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          user_name: "Archit Lal"
+          user_email: "architdraftid@gmail.com"
+          commit_message: "chore: update snake animation"
+          force_orphan: true
