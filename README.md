@@ -8,21 +8,26 @@ The Futurist Sage.
   <img alt="snake" src="https://raw.githubusercontent.com/Archit-lal/Archit-lal/output/github-contribution-grid-snake.svg" />
 </picture>
 
-This summer in San Francisco, I built [geteventful.com](https://geteventful.com) and scaled it to six figures in annualized revenue in a month.
+20, builder and investor. Grew up in India, now studying CS at the University of Minnesota. I like building better ways for people to interact with technology — and backing founders doing the same.
 
-I also invest at Atland Ventures and study CS at the University of Minnesota. I care about better ways for people to interact with technology.
+### Now
 
-### Building
+- **Building [geteventful.com](https://geteventful.com)** — started it this summer in SF and scaled it to six figures in annualized revenue within a month.
+- **Investing** as a General Partner at [Atland Ventures](https://atlandventures.com).
+- **Running** a 0→1 accelerator I co-founded for student builders.
 
-- **[geteventful.com](https://geteventful.com)** — events platform, six figures ARR in a month
-- **Altivis** — an agent that runs user research
-- **Belfort AI** — a voice agent that negotiates on marketplaces
-- **Manifest** — a brain-computer interface for ALS patients
+### Built
+
+- **[Altivis](https://altivis-rho.vercel.app/)** — an agent that runs user research end to end. Raised $16.5K.
+- **Belfort AI** — a voice agent that lists and negotiates on marketplaces. Built at the YC Gemini × Pipecat hackathon.
+- **Manifest** — a brain-computer interface that lets late-stage ALS patients communicate.
+- **Edith AI** — sub-$25 AR glasses with live subtitles for the hearing impaired.
+- **[U8](https://u8agents.vercel.app/)** — human-sourced data through voice agents *(WIP)*.
 
 ### Writing
 
-[Things I think about →](https://sagepartners.vc/portfolio/archit)
+I write **[The Futurist Sage](https://substack.com/@thefuturistsage)** — Gen Z VC takes on the infrastructure for an AI-native generation. Start with [Manifestation Machines](https://open.substack.com/pub/thefuturistsage/p/manifestation-machines) and [When Agents Become Customers](https://open.substack.com/pub/thefuturistsage/p/when-agents-become-customers).
 
-### Reach me
+### Elsewhere
 
-[Email](mailto:lal00020@umn.edu) · [X](https://x.com/Archit_lal_) · [LinkedIn](https://www.linkedin.com/in/archit-lal-2315141b2/) · [Résumé](https://sagepartners.vc/archit-lal-resume.pdf)
+[X](https://x.com/Archit_lal_) · [Substack](https://substack.com/@thefuturistsage) · [LinkedIn](https://www.linkedin.com/in/archit-lal-2315141b2/) · [Instagram](https://www.instagram.com/thefuturistsage/) · [Email](mailto:lal00020@umn.edu) · [Résumé](https://sagepartners.vc/archit-lal-resume.pdf)
