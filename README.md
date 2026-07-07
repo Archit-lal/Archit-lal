@@ -8,7 +8,7 @@ The Futurist Sage.
   <img alt="snake" src="https://raw.githubusercontent.com/Archit-lal/Archit-lal/output/github-contribution-grid-snake.svg" />
 </picture>
 
-20, builder and investor. Grew up in India, now studying CS at the University of Minnesota.
+20, builder and investor. 
 
 ### Now
 
