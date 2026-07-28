@@ -12,6 +12,7 @@ The Futurist Sage.
 
 ### Now
 
+- **Building** omi.me
 - **Investing** as a General Partner at [Atland Ventures](https://atlandventures.com).
 - **Running** a 0→1 accelerator I co-founded for student builders.
 
