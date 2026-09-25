@@ -18,7 +18,7 @@ The Futurist Sage.
 
 ### Built
 
-- **[geteventful.com](https://geteventful.com)** — infrastructure for agents to host IRL events, fronted as a service running highly curated ICP dinners for B2B companies. Hit six figures annualized revenue in 4 weeks.
+- **[geteventful.com](https://geteventful.com)** — infrastructure for agents to host IRL events, fronted as a service running highly curated ICP dinners for B2B companies. Hit six figures annualized revenue.
 -  **Edith AI** — sub-$25 AR glasses that caption the world for people who can't hear it.
 - **Belfort AI** — a voice agent that buys and sells just by talking.
 - **[Altivis](https://altivis-rho.vercel.app/)** — an agent that talks to your users so you actually hear them.
